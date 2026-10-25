@@ -1,0 +1,4 @@
+Patient ID,Full name,Date of birth,Gender,Mobile,Village/City,District,State,Blood group,Diagnosis,Family ID,Relation,Registration date
+,Asha Demo,1975-03-12,Female,9876500001,Demoville,Pune,Maharashtra,B+,Diabetes;Hypertension,F-DEMO1,Mother,2025-01-10
+,Ravi Demo,1972-07-01,Male,9876500002,Demoville,Pune,Maharashtra,O+,Hypertension,F-DEMO1,Father,2025-01-10
+,Chhaya Demo,2010-11-20,Female,9876500003,Demoville,Pune,Maharashtra,,Asthma,F-DEMO1,Daughter,2025-02-02
